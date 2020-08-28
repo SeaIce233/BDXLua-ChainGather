@@ -3,9 +3,9 @@
 
 How to use:Put this plugin in "//lua"
 
-目前在主世界可以连锁全部原版矿物
+目前可以连锁全部原版矿物
 
-At present, all the original minerals can be chain destruction in the main world.
+At present, all the original minerals can be chain destruction.
 
 时运会在连锁时失效(除手动采集的方块)
 
