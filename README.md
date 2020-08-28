@@ -1,7 +1,7 @@
 # BDXLua-ChainDestruction
 用法:直接塞进lua文件夹
 
-How to use:Put in "//lua"
+How to use:Put this plugin in "//lua"
 
 目前在主世界可以连锁全部原版矿物
 
