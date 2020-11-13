@@ -1,4 +1,4 @@
-# BDXLua-ChainDestruction
+# BDXLua-ChainGather
 用法:直接塞进lua文件夹
 
 How to use:Put this plugin in "//lua"
