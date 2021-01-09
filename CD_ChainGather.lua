@@ -98,4 +98,4 @@ null,output=runCmdEx('execute @e ~~~ execute @s[type=item,name="ancient debris",
 end
 id=schedule("netherite_scrap",1,1)
 
-print "[INFO] 连锁挖矿已加载! Made By SeaIce"
+print"[INFO] 连锁挖矿已加载!"
